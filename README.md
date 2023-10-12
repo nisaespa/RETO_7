@@ -1,7 +1,7 @@
 # RETO 7 👽
 ## BUCLES WHILE
 
-#### En el repositorio se encuentra documentado los ejercicios de el Reto 7 en archivo indivual  `.py` y en un notebook todos `ipynb`.
+#### En el repositorio se encuentra documentado los ejercicios de el Reto 7 en archivo indivual  `.py` y en un archivo notebook `ipynb`.
 
 1. Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 ```mermaid
